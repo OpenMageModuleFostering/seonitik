@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Seonitik",
+    "name": "openmage-module-fostering\/seonitik",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Seonitik - Magento Theme",
     "authors": [
